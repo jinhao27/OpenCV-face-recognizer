@@ -6,11 +6,11 @@ Computer vision, machine learning, and artifical intelligence are all hot topics
 
 ## Screenshots/video demo
 Video demo: 
-https://www.youtube.com/watch?v=WMQT2E5hJro&feature=youtu.be
+- https://www.youtube.com/watch?v=WMQT2E5hJro&feature=youtu.be
 Screenshots:
-https://ibb.co/zPTrrDy
-https://ibb.co/g4F1R9Q
-https://ibb.co/KxQFp0d
+- https://ibb.co/zPTrrDy
+- https://ibb.co/g4F1R9Q
+- https://ibb.co/KxQFp0d
 
 ## Tech used
 Built with
