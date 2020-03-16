@@ -9,9 +9,9 @@ Video demo:
 - https://www.youtube.com/watch?v=WMQT2E5hJro&feature=youtu.be
 
 Screenshots:
-- ![sc1](https://i.ibb.co/bNMPPDS/sc3.png)
-- https://ibb.co/g4F1R9Q
-- https://ibb.co/KxQFp0d
+- ![sc3](https://i.ibb.co/bNMPPDS/sc3.png)
+- ![sc2](https://i.ibb.co/NTnhyCf/sc2.png)
+- ![sc1](https://i.ibb.co/N2kZdV5/sc1.png)
 
 ## Tech used
 Built with
