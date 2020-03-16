@@ -9,7 +9,7 @@ Video demo:
 - https://www.youtube.com/watch?v=WMQT2E5hJro&feature=youtu.be
 
 Screenshots:
-- ![sc1](https://ibb.co/zPTrrDy.png)
+- ![sc1](https://i.ibb.co/bNMPPDS/sc3.png)
 - https://ibb.co/g4F1R9Q
 - https://ibb.co/KxQFp0d
 
